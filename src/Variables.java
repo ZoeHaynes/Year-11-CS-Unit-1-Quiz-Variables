@@ -37,7 +37,7 @@ public class Variables {
 
         // 12.
         /**
-         Each char character corresponds to a decimal value, and when a char character is casted to an int, the result is the corresponding decimal value of that character.
+         Each char corresponds to a decimal value, and when a char character is casted to an int, the result is the corresponding decimal value of that character.
          In question 6, the char is 'A', and since the corresponding value of 'A' is 65, 65 returned when 'A' is casted to an int in question 8.
          In question 9, when the char letter is incremented, it becomes 'B' which has a corresponding value of 66, which returned when 'B' is casted to an int in question 11.
 
